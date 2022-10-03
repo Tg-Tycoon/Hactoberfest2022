@@ -1,4 +1,7 @@
+print("Enter first number: ")
 a = int(input())
+print("Enter second number: ")
 b = int(input())
+print("Enter third number: ")
 c = int(input())
-print(max(a,b,c))
+print("The greatest number of the three numbers is:",max(a,b,c))
